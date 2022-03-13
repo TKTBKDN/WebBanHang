@@ -1,0 +1,15 @@
+D:\Freelance\tm\Commerce\Commerce.Repository\bin\Debug\net5.0\Commerce.Repository.deps.json
+D:\Freelance\tm\Commerce\Commerce.Repository\bin\Debug\net5.0\Commerce.Repository.runtimeconfig.json
+D:\Freelance\tm\Commerce\Commerce.Repository\bin\Debug\net5.0\Commerce.Repository.runtimeconfig.dev.json
+D:\Freelance\tm\Commerce\Commerce.Repository\bin\Debug\net5.0\Commerce.Repository.dll
+D:\Freelance\tm\Commerce\Commerce.Repository\bin\Debug\net5.0\ref\Commerce.Repository.dll
+D:\Freelance\tm\Commerce\Commerce.Repository\bin\Debug\net5.0\Commerce.Repository.pdb
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\Commerce.Repository.csprojAssemblyReference.cache
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\Commerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\Commerce.Repository.AssemblyInfoInputs.cache
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\Commerce.Repository.AssemblyInfo.cs
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\Commerce.Repository.csproj.CoreCompileInputs.cache
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\Commerce.Repository.dll
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\ref\Commerce.Repository.dll
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\Commerce.Repository.pdb
+D:\Freelance\tm\Commerce\Commerce.Repository\obj\Debug\net5.0\Commerce.Repository.genruntimeconfig.cache

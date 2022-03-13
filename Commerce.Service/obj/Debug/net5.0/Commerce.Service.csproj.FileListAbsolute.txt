@@ -1,0 +1,12 @@
+D:\Freelance\tm\Commerce\Commerce.Service\bin\Debug\net5.0\Commerce.Service.deps.json
+D:\Freelance\tm\Commerce\Commerce.Service\bin\Debug\net5.0\Commerce.Service.dll
+D:\Freelance\tm\Commerce\Commerce.Service\bin\Debug\net5.0\ref\Commerce.Service.dll
+D:\Freelance\tm\Commerce\Commerce.Service\bin\Debug\net5.0\Commerce.Service.pdb
+D:\Freelance\tm\Commerce\Commerce.Service\obj\Debug\net5.0\Commerce.Service.csprojAssemblyReference.cache
+D:\Freelance\tm\Commerce\Commerce.Service\obj\Debug\net5.0\Commerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance\tm\Commerce\Commerce.Service\obj\Debug\net5.0\Commerce.Service.AssemblyInfoInputs.cache
+D:\Freelance\tm\Commerce\Commerce.Service\obj\Debug\net5.0\Commerce.Service.AssemblyInfo.cs
+D:\Freelance\tm\Commerce\Commerce.Service\obj\Debug\net5.0\Commerce.Service.csproj.CoreCompileInputs.cache
+D:\Freelance\tm\Commerce\Commerce.Service\obj\Debug\net5.0\Commerce.Service.dll
+D:\Freelance\tm\Commerce\Commerce.Service\obj\Debug\net5.0\ref\Commerce.Service.dll
+D:\Freelance\tm\Commerce\Commerce.Service\obj\Debug\net5.0\Commerce.Service.pdb
