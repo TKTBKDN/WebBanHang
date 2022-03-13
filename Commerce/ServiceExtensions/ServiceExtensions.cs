@@ -2,13 +2,10 @@
 using Commerce.Repository.Data;
 using Commerce.Repository.Helper;
 using Commerce.Repository.UnitOfWorks;
+using Commerce.Service;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Commerce.Api.ServiceExtensions
 {
@@ -21,7 +18,7 @@ namespace Commerce.Api.ServiceExtensions
         }
         public static void RegisterServices(this IServiceCollection services)
         {
-
+            services.AddScoped<IProductService, ProductService>();
         }
         public static void RegisterRepositories(this IServiceCollection services)
         {

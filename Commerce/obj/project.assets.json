@@ -1608,6 +1608,19 @@
         "runtime": {
           "bin/placeholder/Commerce.Repository.dll": {}
         }
+      },
+      "Commerce.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Commerce.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Commerce.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Commerce.Service.dll": {}
+        }
       }
     }
   },
@@ -5979,11 +5992,16 @@
       "type": "project",
       "path": "../Commerce.Repository/Commerce.Repository.csproj",
       "msbuildProject": "../Commerce.Repository/Commerce.Repository.csproj"
+    },
+    "Commerce.Service/1.0.0": {
+      "type": "project",
+      "path": "../Commerce.Service/Commerce.Service.csproj",
+      "msbuildProject": "../Commerce.Service/Commerce.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Commerce.Repository >= 1.0.0",
+      "Commerce.Service >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.15",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -5994,11 +6012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Freelance\\tm\\Commerce\\Commerce\\Commerce.Api.csproj",
+      "projectUniqueName": "D:\\AThien\\WebBanHang\\Commerce\\Commerce.Api.csproj",
       "projectName": "Commerce.Api",
-      "projectPath": "D:\\Freelance\\tm\\Commerce\\Commerce\\Commerce.Api.csproj",
+      "projectPath": "D:\\AThien\\WebBanHang\\Commerce\\Commerce.Api.csproj",
       "packagesPath": "C:\\Users\\PNComputer\\.nuget\\packages\\",
-      "outputPath": "D:\\Freelance\\tm\\Commerce\\Commerce\\obj\\",
+      "outputPath": "D:\\AThien\\WebBanHang\\Commerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PNComputer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6016,8 +6034,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Freelance\\tm\\Commerce\\Commerce.Repository\\Commerce.Repository.csproj": {
-              "projectPath": "D:\\Freelance\\tm\\Commerce\\Commerce.Repository\\Commerce.Repository.csproj"
+            "D:\\AThien\\WebBanHang\\Commerce.Service\\Commerce.Service.csproj": {
+              "projectPath": "D:\\AThien\\WebBanHang\\Commerce.Service\\Commerce.Service.csproj"
             }
           }
         }

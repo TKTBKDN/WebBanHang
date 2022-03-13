@@ -9,11 +9,13 @@ namespace Commerce.Repository.UnitOfWorks
     {
         private IDbContextTransaction _transaction;
         public bool EnableManualDispose { get; set; }
-        public UnitOfWork(IMapper mapper)
+        public CommerceContext Context { get; }
+        public UnitOfWork(CommerceContext context, IMapper mapper)
         {
+            Context = context;
             Mapper = mapper;
         }
-        public CommerceContext Context { get; }
+
 
         public IMapper Mapper { get; }
 

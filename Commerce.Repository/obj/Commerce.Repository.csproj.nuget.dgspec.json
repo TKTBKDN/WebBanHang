@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Freelance\\tm\\Commerce\\Commerce.Repository\\Commerce.Repository.csproj": {}
+    "D:\\AThien\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj": {}
   },
   "projects": {
-    "D:\\Freelance\\tm\\Commerce\\Commerce.Repository\\Commerce.Repository.csproj": {
+    "D:\\AThien\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Freelance\\tm\\Commerce\\Commerce.Repository\\Commerce.Repository.csproj",
+        "projectUniqueName": "D:\\AThien\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj",
         "projectName": "Commerce.Repository",
-        "projectPath": "D:\\Freelance\\tm\\Commerce\\Commerce.Repository\\Commerce.Repository.csproj",
+        "projectPath": "D:\\AThien\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj",
         "packagesPath": "C:\\Users\\PNComputer\\.nuget\\packages\\",
-        "outputPath": "D:\\Freelance\\tm\\Commerce\\Commerce.Repository\\obj\\",
+        "outputPath": "D:\\AThien\\WebBanHang\\Commerce.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PNComputer\\AppData\\Roaming\\NuGet\\NuGet.Config",

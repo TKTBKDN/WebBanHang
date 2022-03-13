@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Commerce.Repository\Commerce.Repository.csproj" />
+    <ProjectReference Include="..\Commerce.Service\Commerce.Service.csproj" />
   </ItemGroup>
 
 </Project>

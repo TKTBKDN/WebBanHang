@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HsZydT+vK5b60M7KKWvCzUwOZAMgReh6XIKEr0LCqtHUCuu83m5UWBkYZbkjhL/ugwrdKdplczHp0cIXg9MRSQ==",
+  "dgSpecHash": "MklkJYoF7P8haOIBh+M81HXwwzUoMfQ3eMl/WTrtW6/vqHduDBQz+X120BS3B3okVNBM9JV+P59eN52uv1MUNw==",
   "success": true,
-  "projectFilePath": "D:\\Freelance\\tm\\Commerce\\Commerce\\Commerce.Api.csproj",
+  "projectFilePath": "D:\\AThien\\WebBanHang\\Commerce\\Commerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PNComputer\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\PNComputer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
