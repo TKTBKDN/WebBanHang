@@ -8,6 +8,7 @@ namespace Commerce.Service
     public interface IProductService
     {
         Task<List<Product>> GetProducts();
+        Task<List<Product>> GetProductsQuery();
         Task Add(Product product);
     }
 
@@ -39,6 +40,11 @@ namespace Commerce.Service
         public async Task<List<Product>> GetProducts()
         {
             return await _unitOfWork.ProductRepository.GetAsync();
+        }
+
+        public async Task<List<Product>> GetProductsQuery()
+        {
+            return await _unitOfWork.ProductRepository.GetAllByQuery();
         }
     }
 }

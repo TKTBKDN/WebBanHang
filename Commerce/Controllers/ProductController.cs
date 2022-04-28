@@ -15,7 +15,7 @@ namespace Commerce.Api.Controllers
         [HttpGet("all")]
         public async Task<IActionResult> GetAll()
         {
-            var products = await _productService.GetProducts();
+            var products = await _productService.GetProductsQuery();
             return Ok(products);
         }
 

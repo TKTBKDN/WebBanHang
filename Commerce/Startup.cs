@@ -33,7 +33,6 @@ namespace Commerce
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Commerce", Version = "v1" });
             });
-
             // register service
             services.RegisterDbContext(Configuration);
             services.RegisterMapper();

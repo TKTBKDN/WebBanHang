@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4xtyirxpbtv1riKfcYAYbPq7JDJkKAgYrzDKHhfIAoQeozZBwkgMV2pKw1IfDavQy5MfEOlfPQ5LD+EAlqmwcg==",
+  "dgSpecHash": "Ztg9/BK4OatxkC+AFk4iXosnS/dME0NHV4CURMBJ/DUabz+/uXz0boWMrYZswX5bWF5a5HCl6cjUiOCwULD2Mg==",
   "success": true,
   "projectFilePath": "D:\\AThien\\WebBanHang\\Commerce.Service\\Commerce.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PNComputer\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\PNComputer\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\PNComputer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\PNComputer\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\PNComputer\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

@@ -140,3 +140,4 @@ D:\AThien\WebBanHang\Commerce\obj\Debug\net5.0\Commerce.Api.pdb
 D:\AThien\WebBanHang\Commerce\obj\Debug\net5.0\Commerce.Api.genruntimeconfig.cache
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Commerce.Service.dll
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Commerce.Service.pdb
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Dapper.dll
