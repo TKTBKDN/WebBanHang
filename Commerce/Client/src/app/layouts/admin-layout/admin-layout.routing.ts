@@ -1,10 +1,10 @@
 import { Routes } from '@angular/router';
 
-import { DashboardComponent } from '../../pages/dashboard/dashboard.component';
-import { IconsComponent } from '../../pages/icons/icons.component';
-import { MapsComponent } from '../../pages/maps/maps.component';
-import { UserProfileComponent } from '../../pages/user-profile/user-profile.component';
-import { TablesComponent } from '../../pages/tables/tables.component';
+import { DashboardComponent } from 'src/app/pages/dashboard/dashboard.component';
+import { IconsComponent } from 'src/app/pages/icons/icons.component';
+import { MapsComponent } from 'src/app/pages/maps/maps.component';
+import { TablesComponent } from 'src/app/pages/tables/tables.component';
+import { UserProfileComponent } from 'src/app/pages/user-profile/user-profile.component';
 
 export const AdminLayoutRoutes: Routes = [
     { path: 'dashboard',      component: DashboardComponent },
