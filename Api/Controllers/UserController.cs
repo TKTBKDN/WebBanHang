@@ -1,4 +1,4 @@
-﻿using Commerce.Models;
+﻿using Commerce.Repository.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -18,7 +18,7 @@ namespace Commerce.Controllers
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.Username}, you are an {currentUser.Role}");
+            return Ok($"Hi {currentUser.UserName}, you are an {currentUser.Role}");
         }
 
         [HttpGet("AdminsAndSellers")]
@@ -27,7 +27,7 @@ namespace Commerce.Controllers
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.Username}, you are an {currentUser.Role}");
+            return Ok($"Hi {currentUser.UserName}, you are an {currentUser.Role}");
         }
 
         [HttpGet("Public")]
@@ -46,9 +46,8 @@ namespace Commerce.Controllers
 
                 return new UserModel
                 {
-                    Username = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.NameIdentifier)?.Value,
-                    EmailAddress = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.Email)?.Value,
-                    Role = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.Role)?.Value
+                    UserName = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.NameIdentifier)?.Value,
+                    Email = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.Email)?.Value,
                 };
             }
             return null;
