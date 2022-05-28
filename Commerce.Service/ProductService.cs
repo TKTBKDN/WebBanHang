@@ -12,7 +12,7 @@ namespace Commerce.Service
         Task Add(Product product);
     }
 
-    public class ProductService :IProductService
+    public class ProductService : IProductService
     {
         private readonly IUnitOfWork _unitOfWork;
         public ProductService(IUnitOfWork unitOfWork)
