@@ -24,9 +24,11 @@ namespace Commerce.Repository.UnitOfWorks
         public IMapper Mapper { get; }
 
         private IProductRepository _productRepository;
-        
+
+        private IUserRepository _userRepository;
 
         public IProductRepository ProductRepository => _productRepository ??= new ProductRepository(Context, Mapper, _configuration);
+        public IUserRepository UserRepository => _userRepository ??= new UserRepository(Context, Mapper);
 
         public void BeginTransaction()
         {

@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Commerce.Repository.Entities;
+using Commerce.Repository.Models;
 
 namespace Commerce.Repository.Helper
 {
@@ -7,6 +9,7 @@ namespace Commerce.Repository.Helper
         public MappingProfile()
         {
             // create mapper 
+            CreateMap<UserModel, User>().ReverseMap();
         }
     }
 }

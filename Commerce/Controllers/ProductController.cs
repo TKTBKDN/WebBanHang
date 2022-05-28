@@ -1,10 +1,14 @@
 ﻿using Commerce.Repository.Entities;
 using Commerce.Service;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
 namespace Commerce.Api.Controllers
 {
+    [Authorize]
+    [Route("api/[controller]")]
+    [ApiController]
     public class ProductController : Controller
     {
         private readonly IProductService _productService;
@@ -12,6 +16,7 @@ namespace Commerce.Api.Controllers
         {
             _productService = productService;
         }
+
         [HttpGet("all")]
         public async Task<IActionResult> GetAll()
         {

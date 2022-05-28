@@ -70,12 +70,6 @@ D:\Freelance\tm\Commerce\Commerce\bin\Debug\net5.0\Humanizer.dll
 D:\Freelance\tm\Commerce\Commerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\appsettings.Development.json
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\appsettings.json
-D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\commerce\angular.json
-D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\commerce\package-lock.json
-D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\commerce\package.json
-D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\commerce\tsconfig.app.json
-D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\commerce\tsconfig.json
-D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\commerce\tsconfig.spec.json
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Commerce.Api.exe
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Commerce.Api.deps.json
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Commerce.Api.runtimeconfig.json
@@ -99,7 +93,6 @@ D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -141,3 +134,14 @@ D:\AThien\WebBanHang\Commerce\obj\Debug\net5.0\Commerce.Api.genruntimeconfig.cac
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Commerce.Service.dll
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Commerce.Service.pdb
 D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Dapper.dll
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\angular.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\e2e\tsconfig.e2e.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\package-lock.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\package.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\src\tsconfig.app.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\src\tsconfig.spec.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\src\tslint.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\tsconfig.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Client\tslint.json
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AThien\WebBanHang\Commerce\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
