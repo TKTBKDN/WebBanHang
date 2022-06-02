@@ -16,10 +16,10 @@ D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\icons\icons.component
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\icons\icons.component.js.map
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\maps\maps.component.js
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\maps\maps.component.js.map
-D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\user-profile\user-profile.component.js
-D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\user-profile\user-profile.component.js.map
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\tables\tables.component.js
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\tables\tables.component.js.map
+D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\user-profile\user-profile.component.js
+D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\user-profile\user-profile.component.js.map
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\layouts\admin-layout\admin-layout.routing.js
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\layouts\admin-layout\admin-layout.routing.js.map
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\layouts\admin-layout\admin-layout.module.js
@@ -82,3 +82,9 @@ D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\user-profile\user-pro
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\app\pages\user-profile\user-profile.component.spec.js.map
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\environments\environment.prod.js
 D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\environments\environment.prod.js.map
+D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\shared\models\authen.model.js
+D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\shared\models\authen.model.js.map
+D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\shared\services\base.service.js
+D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\shared\services\base.service.js.map
+D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\shared\services\login.service.js
+D:\AThien\WebBanHang\Api\Client\dist\out-tsc\src\shared\services\login.service.js.map
