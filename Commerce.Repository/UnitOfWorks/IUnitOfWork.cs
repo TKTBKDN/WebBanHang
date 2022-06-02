@@ -20,5 +20,6 @@ namespace Commerce.Repository.UnitOfWorks
         IMapper Mapper { get; }
 
         IProductRepository ProductRepository { get; }
+        IUserRepository UserRepository { get; }
     }
 }

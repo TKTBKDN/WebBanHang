@@ -7,6 +7,7 @@ namespace Commerce.Repository.Data
     {
         public CommerceContext(DbContextOptions<CommerceContext> options): base(options) {  }
 
+        public DbSet<User> Users { get; set; }
         public DbSet<Product> Products { get; set; }
     }
 }

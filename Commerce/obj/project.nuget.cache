@@ -1,10 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "3G0KBYsQvC6dG6OTklC3+wGYulOhD4JTOQ77L8XMyLKSd+xKD5pLjTDDfvbItPN8Z44xNiKNNnIz423j+kSwWA==",
+=======
+  "dgSpecHash": "wO+LUY/24HwL6Z0Z9aNKqGaHLj9V3rpB/dQf8o9qtIL70euvpGNWQBiYu+3HBe5rLbyfnPPtVF7p2p04Ow0a+Q==",
+>>>>>>> main
   "success": true,
   "projectFilePath": "F:\\DUANNGOAI\\WebBanHang\\WebBanHang\\Commerce\\Commerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sp-one\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+<<<<<<< HEAD
+=======
+    "C:\\Users\\Sp-one\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+>>>>>>> main
     "C:\\Users\\Sp-one\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sp-one\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Sp-one\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

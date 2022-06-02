@@ -2,6 +2,7 @@
 using Commerce.Repository.Data;
 using Commerce.Repository.Repositories;
 using Microsoft.EntityFrameworkCore.Storage;
+using Microsoft.Extensions.Configuration;
 
 namespace Commerce.Repository.UnitOfWorks
 {
@@ -9,17 +10,25 @@ namespace Commerce.Repository.UnitOfWorks
     {
         private IDbContextTransaction _transaction;
         public bool EnableManualDispose { get; set; }
-        public UnitOfWork(IMapper mapper)
-        {
-            Mapper = mapper;
-        }
         public CommerceContext Context { get; }
+
+        private readonly IConfiguration _configuration;
+        public UnitOfWork(CommerceContext context, IMapper mapper, IConfiguration configuration)
+        {
+            Context = context;
+            Mapper = mapper;
+            _configuration = configuration;
+        }
+
 
         public IMapper Mapper { get; }
 
         private IProductRepository _productRepository;
 
-        public IProductRepository ProductRepository => _productRepository ??= new ProductRepository(Context, Mapper);
+        private IUserRepository _userRepository;
+
+        public IProductRepository ProductRepository => _productRepository ??= new ProductRepository(Context, Mapper, _configuration);
+        public IUserRepository UserRepository => _userRepository ??= new UserRepository(Context, Mapper);
 
         public void BeginTransaction()
         {

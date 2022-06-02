@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fn0g0i9pZ8NNPNeLKuGXiQa0/W2gaogCXU6to4Z8Nvh055OnyuPy0YKuMCuAkq2oCBTPM0B+c2ZVRmfSDxf1BQ==",
+  "dgSpecHash": "iMZjbo+dnlHwKjl6wOLzBX7Ww8YqZ2fvafY4+NviOb3wNGX0rYQQAFt67krJrsLvFbh74sRMHkQL2OOxuDg0aA==",
   "success": true,
   "projectFilePath": "F:\\DUANNGOAI\\WebBanHang\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sp-one\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Sp-one\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Sp-one\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sp-one\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Sp-one\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -103,5 +104,12 @@
     "C:\\Users\\Sp-one\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Sp-one\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file F:\\DUANNGOAI\\WebBanHang\\WebBanHang\\Commerce.Repository\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
