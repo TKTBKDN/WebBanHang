@@ -76,3 +76,7 @@ D:\AThien\WebBanHang\Api\obj\Debug\net5.0\Commerce.Api.pdb
 D:\AThien\WebBanHang\Api\obj\Debug\net5.0\Commerce.Api.genruntimeconfig.cache
 D:\AThien\WebBanHang\Api\bin\Debug\net5.0\Humanizer.dll
 D:\AThien\WebBanHang\Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\DUANNGOAI\WebBanHang\WebBanHang\Api\obj\Debug\net5.0\Commerce.Api.csproj.AssemblyReference.cache
+F:\DUANNGOAI\WebBanHang\WebBanHang\Api\obj\Debug\net5.0\Commerce.Api.dll
+F:\DUANNGOAI\WebBanHang\WebBanHang\Api\obj\Debug\net5.0\ref\Commerce.Api.dll
+F:\DUANNGOAI\WebBanHang\WebBanHang\Api\obj\Debug\net5.0\Commerce.Api.pdb
