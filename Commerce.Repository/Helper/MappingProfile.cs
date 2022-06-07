@@ -10,6 +10,7 @@ namespace Commerce.Repository.Helper
         {
             // create mapper 
             CreateMap<UserModel, User>().ReverseMap();
+            CreateMap<CategoryModel, Category>().ReverseMap();
         }
     }
 }

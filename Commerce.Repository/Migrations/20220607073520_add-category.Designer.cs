@@ -4,14 +4,16 @@ using Commerce.Repository.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Commerce.Repository.Migrations
 {
     [DbContext(typeof(CommerceContext))]
-    partial class CommerceContextModelSnapshot : ModelSnapshot
+    [Migration("20220607073520_add-category")]
+    partial class addcategory
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

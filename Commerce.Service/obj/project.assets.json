@@ -5799,19 +5799,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sp-one\\.nuget\\packages\\": {}
+    "C:\\Users\\PNComputer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DUANNGOAI\\WebBanHang\\WebBanHang\\Commerce.Service\\Commerce.Service.csproj",
+      "projectUniqueName": "D:\\AThien\\WebBanHang\\Commerce.Service\\Commerce.Service.csproj",
       "projectName": "Commerce.Service",
-      "projectPath": "F:\\DUANNGOAI\\WebBanHang\\WebBanHang\\Commerce.Service\\Commerce.Service.csproj",
-      "packagesPath": "C:\\Users\\Sp-one\\.nuget\\packages\\",
-      "outputPath": "F:\\DUANNGOAI\\WebBanHang\\WebBanHang\\Commerce.Service\\obj\\",
+      "projectPath": "D:\\AThien\\WebBanHang\\Commerce.Service\\Commerce.Service.csproj",
+      "packagesPath": "C:\\Users\\PNComputer\\.nuget\\packages\\",
+      "outputPath": "D:\\AThien\\WebBanHang\\Commerce.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sp-one\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PNComputer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5819,14 +5819,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/4oLKkRSFuIi6VMK8GrFMsUa81wfryWBcd2RybiPDo4bOSLGWG3/api": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\DUANNGOAI\\WebBanHang\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj": {
-              "projectPath": "F:\\DUANNGOAI\\WebBanHang\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj"
+            "D:\\AThien\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj": {
+              "projectPath": "D:\\AThien\\WebBanHang\\Commerce.Repository\\Commerce.Repository.csproj"
             }
           }
         }
@@ -5861,7 +5862,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -21,5 +21,6 @@ namespace Commerce.Repository.UnitOfWorks
 
         IProductRepository ProductRepository { get; }
         IUserRepository UserRepository { get; }
+        ICategoryRepository CategoryRepository { get; }
     }
 }
